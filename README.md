@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Aleksandar Ivezic</h1>
-<h3 align="center">A <a href="https://www.microverse.org/?grsf=w9rx3c">Microverse</a> student from Serbia</h3>
+![Banner](./Banner.gif)
+
+
+<h1 align="left">Hi 👋, I'm Aleksandar Ivezic</h1>
+<h3 align="left">A <a href="https://www.microverse.org/?grsf=w9rx3c">Microverse</a> student from Serbia</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shinobiwarior&label=Profile%20views&color=0e75b6&style=flat" alt="shinobiwarior" /> </p>
