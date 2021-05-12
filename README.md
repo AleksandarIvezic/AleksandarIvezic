@@ -12,10 +12,9 @@
 <p align="left"> <a href="https://twitter.com/aivezic" target="blank"><img src="https://img.shields.io/twitter/follow/aivezic?logo=twitter&style=for-the-badge" alt="aivezic" /></a> </p>
 
 - 🌱 I’m currently learning **Ruby, Ruby on Rails**
-
 - 👨‍💻 All of my projects are available at [https://shinobiwarior.github.io/Personal-Portfolio/](https://shinobiwarior.github.io/Personal-Portfolio/)
-
 - 📫 How to reach me **a.ivezic@yahoo.com**
+- ⚡ Fact: "Truth can only be found in one place: the code."
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
