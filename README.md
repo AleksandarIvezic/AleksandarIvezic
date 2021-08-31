@@ -14,8 +14,8 @@
 - 🌱 I’m currently learning **JavaScript, React**
 - 👨‍💻 All of my projects are available at [https://shinobiwarior.github.io/Personal-Portfolio/](https://shinobiwarior.github.io/Personal-Portfolio/)
 - 📫 How to reach me **a.ivezic@yahoo.com**
-- ⚡ Fact: "Truth can only be found in one place: the code."
-- 💻 Fun-fact: "Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live."
+- ⚡ Fact: "Truth can only be found in one place: the code"
+- 💻 Fun-fact: "Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live"
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
