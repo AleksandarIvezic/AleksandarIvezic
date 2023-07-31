@@ -12,7 +12,7 @@
 <p align="left"> <a href="https://twitter.com/aivezic" target="blank"><img src="https://img.shields.io/twitter/follow/aivezic?logo=twitter&style=for-the-badge" alt="aivezic" /></a> </p>
 
 - 🌱 I’m currently learning **React Native**
-- 👨‍💻 All of my projects are available at [https://shinobiwarior.github.io/Personal-Portfolio/](https://AleksandarIvezic.github.io/Personal-Portfolio/)
+- 👨‍💻 All of my projects are available at [https://shinobiwarior.github.io/Personal_Portfolio/](https://AleksandarIvezic.github.io/Personal-Portfolio/)
 - 📫 How to reach me **a.ivezic@yahoo.com**
 - ⚡ Fact: "Truth can only be found in one place: the code"
 - 💻 Fun-fact: "Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live"
